@@ -1,3 +1,3 @@
 ### Just Playground 🙌
 
-#### Now Studying React.js and Typescript (2021. 01. 10 ~ ) 📚
+#### Studying Now React.js and Typescript (2021. 01. 10 ~ ) 📚
