@@ -2,5 +2,5 @@
 
 ### Hi there 👋
 * League of Legends Stat Searching Site(Front-end, Back-end Support) - 2022. 06. 12 ~ 2022. 10. 23(pending)
-* the-letters(Front-end, Back-end) - 2022. 12. 17 ~ ing
+* [the-letters](https://github.com/monegit/the-letters)(Front-end, Back-end) - 2022. 12. 17 ~ ing
 * Github Pages(Using GatsbyJS) - Ready...
